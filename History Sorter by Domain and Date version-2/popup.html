@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>History Sorter</title>
+    <style>
+        body {
+            width: 400px; /* Fixed width for better appearance */
+            height: auto; /* Automatic height */
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            overflow-y: auto; /* Enable vertical scrolling */
+            background-color: #ffffff; /* Light theme default */
+            transition: background-color 0.3s, color 0.3s;
+        }
+        h2 {
+            text-align: center;
+        }
+        .domain {
+            margin: 10px 0;
+            font-weight: bold;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .url {
+            margin-left: 10px;
+            display: block;
+            padding: 5px;
+            border-radius: 5px;
+            text-decoration: none;
+            color: #007bff;
+            transition: background-color 0.3s;
+        }
+        .url:hover {
+            background-color: #e7f1ff; /* Light blue on hover */
+        }
+        /* Dark theme styles */
+        body.dark {
+            background-color: #2e2e2e;
+            color: #ffffff;
+        }
+        .dark .url {
+            color: #81d4fa; /* Light blue for links in dark mode */
+        }
+        .dark .url:hover {
+            background-color: #555; /* Darker background on hover */
+        }
+        button {
+            margin: 5px;
+            padding: 10px;
+            cursor: pointer;
+            font-size: 14px; /* Adjust font size */
+            flex: 1; /* Buttons will take equal space */
+        }
+        .theme-toggle {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <div class="theme-toggle">
+        <button id="lightTheme">Light Theme</button>
+        <button id="darkTheme">Dark Theme</button>
+    </div>
+    <h2>History by Domain</h2>
+    <table id="historyContainer"></table>
+    <script src="popup.js"></script>
+</body>
+</html>
