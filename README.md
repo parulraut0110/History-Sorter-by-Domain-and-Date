@@ -1,7 +1,5 @@
 # History-Sorter-by-Domain-and-Date
 
-# History Sorter by Domain and Date
-
 ## Introduction
 The **History Sorter by Domain and Date** is a browser extension that organizes your browsing history by domain name and sorts entries by the date of access. This extension enhances user experience by allowing easy access to previously visited sites, grouped by their respective domains.
 
