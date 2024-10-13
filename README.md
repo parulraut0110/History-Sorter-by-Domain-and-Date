@@ -48,7 +48,7 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ## Privacy Policy
 
-You can view the full privacy policy [here](https://github.com/parulraut0110/QR-Code-Generation/blob/main/Privacy%20Policy.md).
+You can view the full privacy policy [here](https://github.com/parulraut0110/History-Sorter-by-Domain-and-Date/blob/main/Privacy%20Policy.md).
 
 ---
 
@@ -61,6 +61,4 @@ For any issues or assistance regarding the extension, please refer to the [issue
 
 
 
-![image](https://github.com/user-attachments/assets/bf28eaa5-0b23-4caf-a330-7ce67070eb9c)
-
-![image](https://github.com/user-attachments/assets/78a20c81-b287-464a-9e24-b422266ff88d)
+![image](https://github.com/user-attachments/assets/bf28eaa5-0b23-4caf-a330-7ce67070eb9c) ![image](https://github.com/user-attachments/assets/78a20c81-b287-464a-9e24-b422266ff88d)
