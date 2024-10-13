@@ -58,7 +58,9 @@ This extension retrieves the user's browsing history from the Chrome browser and
 ---
 
 ## License
-This project is licensed under the [MIT] License - see the LICENSE.md file for details
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE.md](https://github.com/parulraut0110/History-Sorter-by-Domain-and-Date/blob/main/LICENSE.md) file for details.
+
 ---
 
 ## Privacy Policy
