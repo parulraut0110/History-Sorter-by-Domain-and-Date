@@ -57,9 +57,8 @@ This extension retrieves the user's browsing history from the Chrome browser and
 
 ---
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
+## LICENSE
+This project is licensed under the [MIT] License - see the LICENSE.md file for details
 ---
 
 ## Privacy Policy
