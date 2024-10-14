@@ -46,7 +46,7 @@ This extension retrieves the user's browsing history from the Chrome browser and
 1. Download the extension files.
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer mode**.
-4. Click on **Load unpacked** and select the folder containing the extension files.
+4. Click on **Load unpacked** and select the extension file folder.
 
 ---
 
@@ -60,6 +60,7 @@ This extension retrieves the user's browsing history from the Chrome browser and
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE.md](https://github.com/parulraut0110/History-Sorter-by-Domain-and-Date/blob/main/LICENSE.md) file for details.
+The icon used in this project is also licensed under the [Flaticon](https://github.com/parulraut0110/History-Sorter-by-Domain-and-Date/blob/main/icon-licence.pdf).
 
 ---
 
