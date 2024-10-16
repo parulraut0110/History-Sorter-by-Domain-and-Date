@@ -1,7 +1,7 @@
 # History-Sorter-by-Domain-and-Date 
 
 **Version**: 2.0.0   
-**Published Extension**: [DarkModeExtension on Chrome Web Store](https://chromewebstore.google.com/detail/history-sorter-by-domain/iciajgoeohcgngjbbpmbfipmpobkpind)
+**Published Extension**: [History-Sorter-by-Domain-and-Date on Chrome Web Store](https://chromewebstore.google.com/detail/history-sorter-by-domain/iciajgoeohcgngjbbpmbfipmpobkpind)
 ---
 ## Table of Contents
 
